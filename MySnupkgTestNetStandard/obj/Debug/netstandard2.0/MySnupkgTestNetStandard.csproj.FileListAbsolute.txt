@@ -1,0 +1,9 @@
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetStandard\bin\Debug\netstandard2.0\MySnupkgTestNetStandard.deps.json
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetStandard\bin\Debug\netstandard2.0\MySnupkgTestNetStandard.dll
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetStandard\bin\Debug\netstandard2.0\MySnupkgTestNetStandard.pdb
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetStandard\obj\Debug\netstandard2.0\MySnupkgTestNetStandard.csprojAssemblyReference.cache
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetStandard\obj\Debug\netstandard2.0\MySnupkgTestNetStandard.AssemblyInfoInputs.cache
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetStandard\obj\Debug\netstandard2.0\MySnupkgTestNetStandard.AssemblyInfo.cs
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetStandard\obj\Debug\netstandard2.0\MySnupkgTestNetStandard.csproj.CoreCompileInputs.cache
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetStandard\obj\Debug\netstandard2.0\MySnupkgTestNetStandard.dll
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetStandard\obj\Debug\netstandard2.0\MySnupkgTestNetStandard.pdb

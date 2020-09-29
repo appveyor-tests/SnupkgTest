@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SnupkgTestNetStandard
+namespace MySnupkgTestNetStandard
 {
     public class Class1
     {

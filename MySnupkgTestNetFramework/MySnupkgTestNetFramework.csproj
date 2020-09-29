@@ -7,8 +7,8 @@
     <ProjectGuid>485139dd-3a42-41fe-b4a9-dbf061f6131a</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SnupkgTestNetFramework</RootNamespace>
-    <AssemblyName>SnupkgTestNetFramework</AssemblyName>
+    <RootNamespace>MySnupkgTestNetFramework</RootNamespace>
+    <AssemblyName>MySnupkgTestNetFramework</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HrqXzRejB+fg77x2g9oTtUPWxTWtKN2zB11uUva/D+HZbBp5YqZ5OCP2L2CMjMcPXU4FXtJ9L/rDNLZ2fcbMFg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\AppVeyor\\appveyor-tests\\SnupkgTest\\MySnupkgTestNetStandard\\MySnupkgTestNetStandard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feodo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnupkgTestNetStandard", "SnupkgTestNetStandard\SnupkgTestNetStandard.csproj", "{F4102B31-C676-435E-B34A-45CC10BACB0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySnupkgTestNetStandard", "MySnupkgTestNetStandard\MySnupkgTestNetStandard.csproj", "{F4102B31-C676-435E-B34A-45CC10BACB0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnupkgTestNetFramework", "SnupkgTestNetFramework\SnupkgTestNetFramework.csproj", "{485139DD-3A42-41FE-B4A9-DBF061F6131A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySnupkgTestNetFramework", "MySnupkgTestNetFramework\MySnupkgTestNetFramework.csproj", "{485139DD-3A42-41FE-B4A9-DBF061F6131A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

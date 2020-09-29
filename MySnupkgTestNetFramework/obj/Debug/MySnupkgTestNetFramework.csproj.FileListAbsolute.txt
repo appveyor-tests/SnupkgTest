@@ -1,0 +1,6 @@
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetFramework\bin\Debug\MySnupkgTestNetFramework.dll
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetFramework\bin\Debug\MySnupkgTestNetFramework.pdb
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetFramework\obj\Debug\MySnupkgTestNetFramework.csprojAssemblyReference.cache
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetFramework\obj\Debug\MySnupkgTestNetFramework.csproj.CoreCompileInputs.cache
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetFramework\obj\Debug\MySnupkgTestNetFramework.dll
+C:\Projects\AppVeyor\appveyor-tests\SnupkgTest\MySnupkgTestNetFramework\obj\Debug\MySnupkgTestNetFramework.pdb
