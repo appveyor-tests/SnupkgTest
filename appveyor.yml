@@ -29,7 +29,7 @@ before_deploy:
     if (($artifacts.values | Where-Object {$_.path.EndsWith($expectedPackageName)}) -eq $null) {throw "$($expectedPackageName).snupkg package was not created"}
     $expectedPackageName = "SnupkgTestNetStandard.$env:appveyor_build_version.snupkg"
     if (($artifacts.values | Where-Object {$_.path.EndsWith($expectedPackageName)}) -eq $null) {throw "$($expectedPackageName).snupkg package was not created"}
-deploy:
-- provider: NuGet
-  api_key:
-    secure: cdFF4q8fhTq2yL46o+G5evivVMcHe66G4JCIjZBop8YO+4cBRZ1e1ycso8fBxULV
+#deploy:
+#- provider: NuGet
+#  api_key:
+#    secure: cdFF4q8fhTq2yL46o+G5evivVMcHe66G4JCIjZBop8YO+4cBRZ1e1ycso8fBxULV
